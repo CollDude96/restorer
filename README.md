@@ -1,4 +1,4 @@
 # restorer
-To clone packages on my system.
-By samuel tyler
-Please read LICENCE
+To clone packages on my system. <br>
+By samuel tyler <br>
+Please read LICENCE <br>
